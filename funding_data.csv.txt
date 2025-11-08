@@ -1,0 +1,50 @@
+round,project_name,category,recipient_address,amount_usd,token,matching_pool,platform,year
+GR9,Cryptopond,Tooling,0x1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b,12500,USDC,Quadratic,Gitcoin,2022
+GR9,OmniacsDAO,Data,0x4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f,8700,DAI,Quadratic,Gitcoin,2022
+GR10,FairDrop,Privacy,0x7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b,9300,USDC,Quadratic,Gitcoin,2022
+GR11,SybilShield,Security,0x2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d,7200,ETH,Quadratic,Gitcoin,2023
+GR12,ChainGPT,AI,0x9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d,11000,USDC,Quadratic,Gitcoin,2023
+GR13,DataUnion,Data,0x5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f,6500,DAI,Quadratic,Gitcoin,2023
+GR14,OmniacsDAO,Education,0x4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f,10200,USDC,Quadratic,Gitcoin,2023
+GR15,ModelZ00,ML,0x3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b,8900,ETH,Quadratic,Gitcoin,2023
+GR16,CryptoPond,Analytics,0x1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b,14000,USDC,Quadratic,Gitcoin,2024
+GR17,OmniacsDAO,Tooling,0x4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f,13500,DAI,Quadratic,Gitcoin,2024
+GR18,AlloNavigatoR,Infrastructure,0x6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e,9800,USDC,Quadratic,Gitcoin,2024
+GR19,DataScienceCourse,Education,0x4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f,7500,ETH,Quadratic,Gitcoin,2024
+GR20,FairDrop v2,Privacy,0x7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b,16000,USDC,Quadratic,Gitcoin,2024
+GR20,OmniacsDAO,Research,0x4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f,12800,DAI,Quadratic,Gitcoin,2024
+Allo-Q1,SybilResist,Security,0x8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a,5000,ETH,Direct,Allo,2024
+Allo-Q2,CryptoPond Bounties,Analytics,0x1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b,7500,USDC,Direct,Allo,2024
+Allo-Q3,OmniacsDAO GrantsMatchingAI,AI,0x4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f,9200,DAI,Direct,Allo,2024
+Allo-Q3,ModelZ00 v2,ML,0x3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b,6800,ETH,Direct,Allo,2024
+Allo-Q4,Data Commons,Data,0x0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c,8100,USDC,Direct,Allo,2025
+GR9,UniswappeR,Analytics,0x5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d,5400,DAI,Quadratic,Gitcoin,2022
+GR12,NFT-Network-Graph,Data,0x6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f,6300,USDC,Quadratic,Gitcoin,2023
+GR14,HOPR Analytics,Infrastructure,0x7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a,4800,ETH,Quadratic,Gitcoin,2023
+GR16,eth2-validator-health-dashboard,Tooling,0x4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f,5900,DAI,Quadratic,Gitcoin,2024
+GR18,numerdash,Data,0x8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7b,7100,USDC,Quadratic,Gitcoin,2024
+GR20,Transaction-Propagation-Visualizer,Security,0x9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c,6200,ETH,Quadratic,Gitcoin,2024
+Allo-Q1,OpenGrantReviewersHandbook,Education,0x0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d,3200,USDC,Direct,Allo,2024
+Allo-Q2,gitcoin-grant-meta-analysis,Research,0x4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f,4100,DAI,Direct,Allo,2024
+Allo-Q3,balanced-multiclass-learning,ML,0x1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e,5300,ETH,Direct,Allo,2024
+Allo-Q4,Whisper-Streamlit-App,AI,0x2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f,4500,USDC,Direct,Allo,2025
+GR9,Rnumerai,Data,0x3f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a,3800,DAI,Quadratic,Gitcoin,2022
+GR11,Pool-Together,DeFi,0x4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b,8500,USDC,Quadratic,Gitcoin,2023
+GR13,Aave-Growth-Dashboard,Analytics,0x5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c,7700,ETH,Quadratic,Gitcoin,2023
+GR15,CryptoPredictions,AI,0x6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d,5600,DAI,Quadratic,Gitcoin,2023
+GR17,Discord-NFT-Bot,Tooling,0x7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e,3400,USDC,Quadratic,Gitcoin,2024
+GR19,PASSPORT-Stamp-Query-API,Infrastructure,0x8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f,6100,ETH,Quadratic,Gitcoin,2024
+Allo-Q1,Multi-Language-Model-Interaction,AI,0x9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a,4900,USDC,Direct,Allo,2024
+Allo-Q2,OCR-Handwriting-Comparison,ML,0x0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b,3700,DAI,Direct,Allo,2024
+Allo-Q3,Web3RoboticsExperiments,Research,0x1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c,2900,ETH,Direct,Allo,2024
+Allo-Q4,PixelPitch.ai,AI,0x2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d,5800,USDC,Direct,Allo,2025
+GR10,medalla-data-challenge,Data,0x3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e,4200,DAI,Quadratic,Gitcoin,2022
+GR12,deepfundSubmission,ML,0x4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f,3600,ETH,Quadratic,Gitcoin,2023
+GR14,cryptopond-bug-bounty,Security,0x1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b,2500,USDC,Quadratic,Gitcoin,2023
+GR16,Onchain-experiments,Research,0x5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a,3100,DAI,Quadratic,Gitcoin,2024
+GR18,Streamlit-App-Launcher,Tooling,0x6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b,2800,USDC,Quadratic,Gitcoin,2024
+GR20,Discord_RockPaperScissors,Community,0x7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c,1200,ETH,Quadratic,Gitcoin,2024
+Allo-Q1,gitcoin-grants-lifetime-analysis,Research,0x4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f,5000,DAI,Direct,Allo,2024
+Allo-Q2,uniswappeR-reporting,Analytics,0x8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d,4400,USDC,Direct,Allo,2024
+Allo-Q3,uniswappeR-dashboarding,Tooling,0x9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e,3900,ETH,Direct,Allo,2024
+Allo-Q4,OpenDataRepository,Data,0x4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f,6700,USDC,Direct,Allo,2025
